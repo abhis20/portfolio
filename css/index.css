@@ -59,7 +59,7 @@ body {
 
 /* Main Hero Section Styles */
 .hero { 
-	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztwzjk0Ni5eN1WtQQeWbG36jEVgwBmFoNOA&usqp=CAU'); 
+	background-image: url('../images/bg1.png'); 
 	background-repeat: no-repeat; 
 	background-size: 100% 100%; 
 	width: 100%; 
